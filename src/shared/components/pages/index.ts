@@ -1,0 +1,6 @@
+export * from './Certificate'
+export * from './Comments'
+export * from './Modules'
+export * from './Preferences'
+export * from './Students'
+export * from './Team'

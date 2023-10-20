@@ -1,0 +1,12 @@
+dist
+node_modules
+coverage
+README.md
+.next
+build
+scripts
+yarn.lock
+!.commitlintrc.cjs
+!.lintstagedrc.cjs
+!jest.config.js
+!react-shim.js
